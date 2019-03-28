@@ -17,6 +17,4 @@
   <body>
     <h1>From Queensland Australia</h1>
     <p>A small coastal beach town called The Sunshine Coast</p>
-    <p>Here's <a href=“websiteHTML.html">back to the home page</a></p>
-  </body>
-</html>
+   

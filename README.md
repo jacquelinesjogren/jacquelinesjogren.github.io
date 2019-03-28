@@ -4,17 +4,10 @@
   <head>
   </head>
   <body>
-    <h1>All about Jacqueline</h1>
-    <p>about</p>
+    <h1>All about Jacqueline Sjogren</h1>
+    <p>about:</p>
+    <p>- From Queensland Australia</p>
+    <p>- A small coastal beach town called The Sunshine Coast</p>
+    <p>- Moved to New York City when I was 17<p/>
   </body>
 </html>
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>About Jacqueline Sjogren</title>
-  </head>
-  <body>
-    <h1>From Queensland Australia</h1>
-    <p>A small coastal beach town called The Sunshine Coast</p>
-   

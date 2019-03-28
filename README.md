@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-  <head>
+ <head>
   </head>
   <body>
     <h1>All about Jacqueline Sjogren</h1>
@@ -15,5 +15,7 @@
   <p>- Lifetime member of ODK Omicron Delta Kappa National Leadership Honors Society</p>
   <p>- Lifetime member of Kappa Mu Epsilon National Mathematics Honor Society</p>
   <p>- Currently Studying: Bachelor of Science in Information Systems, Minoring in Business Management and Psychology</p>
- </body>
-</html>
+  <h4> Contact Me</h4>
+  <p><a href="mailto:jacqueline.sjogren@wagner.edu?Subject=Yello">click here to send an email to Jacqueline!</a> </body>
+</html></p>
+

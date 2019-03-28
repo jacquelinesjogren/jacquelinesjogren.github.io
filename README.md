@@ -3,8 +3,14 @@
 <html>
  <head>
   <style>
-body {background-color:#eee;}
-</style>  </head>
+div {
+  width: 180px;
+  padding: 30px;
+  font-family: sans-serif;
+  background-color: gold;
+}
+</style>
+<div>  </head>
   <body>
     <h1>All about Jacqueline Sjogren</h1>
     

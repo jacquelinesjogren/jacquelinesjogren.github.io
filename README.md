@@ -1,13 +1,19 @@
-# jacquelinesjogren.github.io
+
 <!DOCTYPE html>
 <html>
   <head>
   </head>
   <body>
     <h1>All about Jacqueline Sjogren</h1>
-    <p>about:</p>
+    
+   <h2>About:</h2>
     <p>- From Queensland Australia</p>
     <p>- A small coastal beach town called The Sunshine Coast</p>
     <p>- Moved to New York City when I was 17<p/>
-  </body>
+    <p>- Currently a Division 1 Womens Waterpolo Athlete at Wagner College</p>
+  <h3>Accomplishments:</h3>
+  <p>- Lifetime member of ODK Omicron Delta Kappa National Leadership Honors Society</p>
+  <p>- Lifetime member of Kappa Mu Epsilon National Mathematics Honor Society</p>
+  <p>- Currently Studying: Bachelor of Science in Information Systems, Minoring in Business Management and Psychology</p>
+ </body>
 </html>

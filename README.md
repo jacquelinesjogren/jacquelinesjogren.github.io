@@ -2,15 +2,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <style>
-div {
-  width: 180px;
-  padding: 30px;
-  font-family: sans-serif;
-  background-color: gold;
-}
-</style>
-<div>  </head>
+ </head>
   <body>
     <h1>All about Jacqueline Sjogren</h1>
     

@@ -15,5 +15,5 @@
   <p>- Lifetime member of Kappa Mu Epsilon National Mathematics Honor Society</p>
   <p>- Currently Studying: Bachelor of Science in Information Systems, Minoring in Business Management and Psychology</p>
   <h4> Contact Me:</h4>
-  <p><a href="mailto:jacqueline.sjogren@wagner.edu?Subject=Yello">Click to send an email!</a> </body>
+  <p><a href="mailto:jacqueline.sjogren@wagner.edu?Subject=To Ms Sjogren">Click to send an email!</a> </body>
 </html></p>
